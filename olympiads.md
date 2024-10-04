@@ -10,7 +10,7 @@
 ## [International Olympiad of the financial university](https://inter-olymp.fa.ru/en)
 - **Format:** Fully online
 - **Subjects:** Economics and Information Technology, International Economics, Humanitarian, Social Sciences (These are directions, subjects of each direction is on their site)
-- **Language:** English or Russia
+- **Language:** English or Russian
 - **Prize:** The winners receive the opportunity to enter according to the quota of the Government of the Russian Federation for foreign citizens, Prize-winners receive a 50% discount for the entire period of study
 - **Grades that can participate:** Schoolchildren, students and graduates up to 35 years old
 - **Application dates:**
@@ -80,7 +80,7 @@
     - Applying: May to October 
     - Participation: November
 ## [International Olympiads in Informatics and Artificial Intelligence](https://nto-erudite.ru/itnov23/)
-- **Format:** 
+- **Format:** ?
 - **Subjects:** Applied Informatics, Artificial Intelligence, Data Security
 - **Language:** ?
 - **Prize:** ?
