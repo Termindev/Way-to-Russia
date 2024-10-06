@@ -98,7 +98,7 @@
 ## [RUDN Junior Maths Olympiad](https://math-olymp.rudn.ru/junior/)
 - **Format:** Semi Online
 - **Subjects:** Maths
-- **Language:** ?
+- **Language:** Russian (Could have English next year)
 - **Prize:** Listed on the website.
 - **Grades that can participate:** 10th to 12th grade.
 - **Application dates:**
