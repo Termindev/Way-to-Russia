@@ -94,7 +94,7 @@
 - **Grades that can participate:** 6th to 12th grade.
 - **Application dates:**
     - Applying: ? (As of now you can apply)
-    - Participation: November 1st to Feb 10th (Qualification), Final: March 1st (Final)
+    - Participation: November 1st to Feb 10th (Qualification), March 1st (Final)
 ## [RUDN Junior Maths Olympiad](https://math-olymp.rudn.ru/junior/)
 - **Format:** Semi Online
 - **Subjects:** Maths
