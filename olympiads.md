@@ -21,7 +21,7 @@
 - **Subjects:** Russian Language
 - **Language:** Russian
 - **Prize:** Take the state testing in Russian as a foreign language (TORFL) for free as a prize, winners and prize-winners receive additional points in the portfolio competition when entering St. Petersburg State University
-- **Grades that can participate:** ages 12 to 3
+- **Grades that can participate:** ages 12 to 30
 - **Application dates:**
     - Applying: October
     - Participation: 2 rounds from October to November 
