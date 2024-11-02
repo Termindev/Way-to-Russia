@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Way to Russia",
   description: "A summary of Opportunities to study in Russia",
+  head: [["script", { src: "/_vercel/insights/script.js", defer: true }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
