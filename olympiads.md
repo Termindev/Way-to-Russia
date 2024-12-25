@@ -105,15 +105,6 @@
 - **Application dates:**
     - Applying: September 17 to January 10 (2024).
     - Participation: 3 attempts from 18th November to 12th January (Qualification), From February to March (Finals).
-## [International Olympiad "Your first success"](https://abiturient.tpu.ru/en/news/international-olympiad-your-first-success)
-- **Format:** Fully Online
-- **Subjects:** Engineering, Natural Sciences, IT Science
-- **Language:** English and Russian
-- **Prize:** The winners are granted the right to free training according to the quota of the Government of the Russian Federation.
-- **Grades that can participate:** ?
-- **Application dates:**
-    - Applying: From 10.11.2024 to 25.03.2025
-    - Participation: ?
 ## [International Olympiad in Cryptography](https://nsucrypto.nsu.ru/)
 - **Format:** Fully Online
 - **Subjects:** Cryptography
@@ -138,3 +129,13 @@
 - **Grades that can participate:** Any
 - **Application dates:**
     - Participation: Qualification: From: December 2, 2024 to January 8, 2025 and Final: March 3 – 9, 2025
+## [International Olympiad "Your first success"](https://abiturient.tpu.ru/en/news/international-olympiad-your-first-success)
+- **Format:** Fully Online
+- **Subjects:** Engineering, Natural Sciences, IT Science
+- **Language:** English and Russian
+- **Prize:** The winners are granted the right to free training according to the quota of the Government of the Russian Federation.
+- **Grades that can participate:** ?
+- **Application dates:**
+    - Applying: From 10.11.2024 to 25.03.2025
+    - Participation: ?
+**NOTE:** This is for master's, not bachelor's
