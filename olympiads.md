@@ -43,6 +43,7 @@
 - **Application dates:**
     - Applying: October
     - Participation: From October to February
+**NOTE:** Also check out [this](https://olymp.itmo.ru/), same university, same olympiad, almost same subject and fully online.
 ## [Phystech](https://en.phystech.international/)
 - **Format:** Fully online
 - **Subjects:** Physics and Mathematics
@@ -104,3 +105,36 @@
 - **Application dates:**
     - Applying: September 17 to January 10 (2024).
     - Participation: 3 attempts from 18th November to 12th January (Qualification), From February to March (Finals).
+## [International Olympiad "Your first success"](https://abiturient.tpu.ru/en/news/international-olympiad-your-first-success)
+- **Format:** Fully Online
+- **Subjects:** Engineering, Natural Sciences, IT Science
+- **Language:** English and Russian
+- **Prize:** The winners are granted the right to free training according to the quota of the Government of the Russian Federation.
+- **Grades that can participate:** ?
+- **Application dates:**
+    - Applying: From 10.11.2024 to 25.03.2025
+    - Participation: ?
+## [International Olympiad in Cryptography](https://nsucrypto.nsu.ru/)
+- **Format:** Fully Online
+- **Subjects:** Cryptography
+- **Language:** English (and Russian?)
+- **Prize:** ?
+- **Grades that can participate:** Any
+- **Application dates:**
+    - Participation: October 13, 2024 (individual) and October 14 – 21, 2024 (teams)
+## [International Olympiads of KFU](https://eng.kpfu.ru/general-information/kfus-interregional-subject-olympiad/)
+- **Format:** Semi Online
+- **Subjects:** Math, Biology, Chemistry, Physics, Russian language, English language, Law and Design.
+- **Language:** Russian
+- **Prize:** Study at the Kazan (Volga region) Federal University for free
+- **Grades that can participate:** Any
+- **Application dates:**
+    - Participation: Qualification: From: December 2, 2024 to January 8, 2025 and Final: March 3 – 9, 2025
+## [Innopolis Open International Olympiad](https://dovuz.innopolis.university/pre-olympiads/innopolis-open/en)
+- **Format:** Semi Online
+- **Subjects:** informatics, mathematics, cyber security, robotics and artificial intelligence
+- **Language:** ? (Probably English and possible also Russian)
+- **Prize:** Winners and prize-winners will receive bonuses upon admission to the University of Innopolis; merch and gifts from Innopolis and VK Education; points in the service «Drugoe Delo».
+- **Grades that can participate:** Any
+- **Application dates:**
+    - Participation: Qualification: From: December 2, 2024 to January 8, 2025 and Final: March 3 – 9, 2025
