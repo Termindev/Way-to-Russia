@@ -49,6 +49,10 @@ https://inter-olimp.mil.ru/
 
 https://mpei.ru/news/Pages/adItem.aspx?adID=2430
 
+https://olymp.nsu.ru/olymp/2
+
+https://abiturient.tsu.ru/ru/content/olimp-BS
+
 These all have one thing in common, their sites don't make much sense, there is information in some of them but it wouldn't make sense to include it in, write the dates and leave everything else as question marks.
 
 Lastly this: https://olymp.hse.ru/ma/, this wasn't included because this document focuses mainly on bachelor's programs, while this is for master's.

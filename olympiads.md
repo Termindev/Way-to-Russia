@@ -139,3 +139,12 @@
     - Applying: From 10.11.2024 to 25.03.2025
     - Participation: ?
 **NOTE:** This is for master's, not bachelor's
+## [Academic Competition for School Students «Gazprom»](https://olympiad.gazprom.ru/#/)
+- **Format:** (Fully Online?)
+- **Subjects:** Mathematics, Physics, Chemistry, Computer Science, Economics, Engineering
+- **Language:** English and Russian
+- **Prize:** The winners are granted the right to free training according to the quota of the Government of the Russian Federation.
+- **Grades that can participate:** Foreign citizens and stateless persons, who received a high school diploma no earlier than 2020 or will receive it in 2025. (Also possible to participate if you're in 9th-12th grade, but won't get a scholarship)
+- **Application dates:**
+    - First round (registration and elimination round): November 1, 2024 – January 15, 2025
+    - Finals: February 1, 2025 – March 30, 2025 
