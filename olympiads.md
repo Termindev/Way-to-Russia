@@ -114,7 +114,7 @@
 - **Application dates:**
     - Participation: October 13, 2024 (individual) and October 14 – 21, 2024 (teams)
 ## [International Olympiads of KFU](https://eng.kpfu.ru/general-information/kfus-interregional-subject-olympiad/)
-- **Format:** Semi Online
+- **Format:** Fully Online
 - **Subjects:** Math, Biology, Chemistry, Physics, Russian language, English language, Law and Design.
 - **Language:** Russian
 - **Prize:** Study at the Kazan (Volga region) Federal University for free
