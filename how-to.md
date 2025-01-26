@@ -54,7 +54,7 @@ So, enough of all these definitions; how do I apply?
 
 Assuming you've probably chosen a few universities to apply to, you should do the following (preferably in May or before in the year before your year of graduation):
 
-1. Find Olympiads in the university that allow international students to participate.
+#### 1. Find Olympiads in the university that allow international students to participate.
 
 Usually any Olympiad conducted online would allow international students; it's just a matter of whether all stages are conducted online or not. If yes, then you may be lucky enough to get the chance to enroll in the university without any applications, just by proving your skills in an Olympiad.
 
@@ -64,7 +64,7 @@ As I've said above, knowledge of Russian will help you participate in many more 
 
 Also note that even if the Olympiad doesn't give you a grant, it's still helpful when applying for a scholarship because you can show them that they themselves tested your skills in the specialty you're applying for.
 
-2. Find scholarships made BY the university and ask about entrance exams.
+#### 2. Find scholarships made BY the university and ask about entrance exams.
 
 Other than the Russian government scholarship and opendoors, some universities have their own scholarship programs that you can apply for; sometimes this can be by submitting an application or by taking entrance exams. Either way, you should check if the university has this option, as it improves your chances.
 
