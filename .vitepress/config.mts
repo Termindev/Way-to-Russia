@@ -7,18 +7,22 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
+      // { text: 'Home', link: '/' },
+      { text: 'How to?', link: '/how-to' },
       { text: 'Olympiads', link: '/olymp-notes' },
-      { text: 'Scholarships', link: '/scholarships' }
+      { text: 'Scholarships', link: '/scholarships' },
+      { text: 'Contact', link: '/contact' }
     ],
 
     sidebar: [
       {
         // text: 'txt',
         items: [
+          { text: 'How to', link: '/how-to' },
           { text: 'Olympiad notes', link: '/olymp-notes' },
           { text: 'Olympiads', link: '/olympiads' },
-          { text: 'Scholarships', link: '/scholarships' }
+          { text: 'Scholarships', link: '/scholarships' },
+          { text: 'Contact', link: '/contact' }
         ]
       }
     ],

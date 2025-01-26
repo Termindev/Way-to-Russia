@@ -148,3 +148,12 @@
 - **Application dates:**
     - First round (registration and elimination round): November 1, 2024 – January 15, 2025
     - Finals: February 1, 2025 – March 30, 2025 
+## [Saint Petersburg State University School Olympiad](https://olympiada.spbu.ru/)
+- **Format:** Fully Online
+- **Subjects:** Psychology, International relationships, Chemistry, Medicine, Journalism, Mathematical Modeling and Artificial Intelligence, Computer science, Biology, Physics, Mathematics, History, Foreign Languages, and more listed on their site.
+- **Language:** Russian
+- **Prize:** Winners and prize winners of the Olympiad receive branded souvenirs and can claim special rights when entering a university - enrollment without entrance examinations, receiving 100 points in a specialized subject, or accrual of additional points as an indication of individual achievements.
+- **Grades that can participate:** ?
+- **Application dates:**
+    - Qualifying: November 1, 2024 – January 13, 2025.
+    - Final February 1, 2025 – March 17, 2025.

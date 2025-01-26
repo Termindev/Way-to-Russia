@@ -5,7 +5,7 @@
 # What and How?
 This document includes Olympiads where international students can participate, most of the data here is from google searching, emailing and mainly the site of the Olympiad itself, if you notice any mistakes, feel free to contact (Contact information below).
 
-You should use this document as a quick reference to check the olympiads that suit you and start prepairing for them, it is recommended to also do extra reasearch since there's many semi-online (read [olympiad formats](#olympiads-sorted-by-format)) made by universities that weren't included here, however I tried to include all and every olympiad I encounter during my research, and it'd be appreciated if you help with this document as well.
+You should use this document as a quick reference to check the olympiads that suit you and start preparing for them, it is recommended to also do extra research since there's many semi-online (read [olympiad formats](#olympiads-sorted-by-format)) made by universities that weren't included here, however I tried to include all and every olympiad I encounter during my research, and it'd be appreciated if you help with this document as well.
 
 # Olympiads sorted by format
 ## Fully online:
@@ -24,7 +24,7 @@ Anything that has a question mark (**?**) indicates that this is either not list
 
 Something I also have to include is what's the difference between a winner and a prize winner, in-short a winner is first place, and a prize winner is any other placement (2nd or 3rd etc).
 
-Some competetion only have one winner and prize winners are only two (2nd and 3rd place) such as [ИТМО](https://ec.itmo.ru), others allow multiple winners and prize winners such as [HSE MOM](https://olymp.hse.ru/inter/), to know whether a competetion allows multiple winners/prize winners, check the results (if they're published publicly).
+Some competition only have one winner and prize winners are only two (2nd and 3rd place) such as [ИТМО](https://ec.itmo.ru), others allow multiple winners and prize winners such as [HSE MOM](https://olymp.hse.ru/inter/), to know whether a competetion allows multiple winners/prize winners, check the results (if they're published publicly).
 
 ## Not included
 Here's a list of Olympiads I didn't include, for the reasons listed:
@@ -89,8 +89,3 @@ If you want to add a new olympiad to the list, it's preferred to use this form
 Just a list of all the people that helped this:
 
 Currently none
-
-## Contact information
-If you'd like to contribute, found a mistake or had a question, here's how to reach out:
-
-- [Telegram](https://t.me/russian4egyptiansq)

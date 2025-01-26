@@ -8,6 +8,9 @@ hero:
   # tagline: tagline
   actions:
     - theme: brand
+      text: How to?
+      link: /how-to
+    - theme: brand
       text: Olympiads
       link: /olymp-notes
     - theme: brand
