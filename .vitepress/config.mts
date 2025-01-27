@@ -5,7 +5,6 @@ export default defineConfig({
   description: "A summary of Opportunities to study in Russia",
   head: [
     ["script", { src: "/_vercel/insights/script.js", defer: true }],
-    ["meta", { name: "google-site-verification", content: "6L84WxUIILcnfNZnSmiI8UGwsRXE3Qdl-HQBDjslfjk" }],
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
