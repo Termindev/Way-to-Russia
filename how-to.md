@@ -64,7 +64,7 @@ As I've said above, knowledge of Russian will help you participate in many more 
 
 Also note that even if the Olympiad doesn't give you a grant, it's still helpful when applying for a scholarship because you can show them that they themselves tested your skills in the specialty you're applying for.
 
-#### 2. Find scholarships made BY the university and ask about entrance exams.
+#### 2. Find scholarships made BY the university and ask about entrance exams/applications.
 
 Other than the Russian government scholarship and opendoors, some universities have their own scholarship programs that you can apply for; sometimes this can be by submitting an application or by taking entrance exams. Either way, you should check if the university has this option, as it improves your chances.
 
@@ -73,6 +73,9 @@ When asking about entrance exams, you should also probably ask about:
 - Whether it's possible to take exams in English
 - What are the mandatory exams for applying for x (assuming x is the specialty you want to study)?
 - Whether grants or stipends are given for passing the exam
+- Also don't forget to tell them where you're from :)
+
+You have to email the university and check their website, because in some cases you can still get a full scholarship just by applying and having a good portfolio.
 
 **All of this information can be simply obtained by emailing the university or checking their website. I don't know anything, so I wouldn't advise you asking me about whether university X gives grants for passing entrance exams or not.**
 ## Wrap up
