@@ -4,8 +4,11 @@ export default defineConfig({
   title: "Way to Russia",
   description: "A summary of Opportunities to study in Russia",
   head: [
-    ["script", { src: "/_vercel/insights/script.js", defer: true }],
+    ["script", { src: "/_vercel/insights/script.js", defer: "true" }],
   ],
+  sitemap: {
+    hostname: 'https://waytoru.vercel.app'
+  },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
