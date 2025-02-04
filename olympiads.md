@@ -157,3 +157,12 @@
 - **Application dates:**
     - Qualifying: November 1, 2024 – January 13, 2025.
     - Final February 1, 2025 – March 17, 2025.
+## [Open Olympiad for foreign citizens](http://olymp.rudn.ru/gb/priglashaem-uchastnikov-olimpiady/)
+- **Format:** Fully Online
+- **Subjects:** ?
+- **Language:** English (and Russian)
+- **Prize:** Explained on the website.
+- **Grades that can participate:** 11th and 12th.
+- **Application dates:**
+    - First stage: you can apply starting from February 2nd, 2025, and take the exam anytime.
+    - Second stage: online interview with the teacher at the appointed time
