@@ -2,6 +2,10 @@
 <h2 style="text-align:center;">وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَى</h2>
 <hr>
 
+
+# To see actual olympiads click [HERE](/olympiads)
+<br>
+
 # What and How?
 This document includes Olympiads where international students can participate, most of the data here is from google searching, emailing and mainly the site of the Olympiad itself, if you notice any mistakes, feel free to contact (Contact information below).
 
