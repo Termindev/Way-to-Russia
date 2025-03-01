@@ -46,7 +46,7 @@ Lastly, the hardest option, for several reasons, some of them are:
 
 - Not all universities provide grants for passing entrance exams, and not all universities allow Egyptians to enter through entrance exams anyways (if any even exist).
 
-**## What's an institute?**
+## What's an institute?
 An institute (институт, in Russian): Is like a university but focused on one specialty. I myself don't understand this fully, so if you can help improve this definition, [contact me](/contact), because [MIPT](https://eng.mipt.ru/) (Moscow **Institute** of Physics and Technology) has [computer science programs](https://eng.mipt.ru/programs/computer-science/), while something like the **University** of Innopolis only focuses on robotics and IT (?).
 
 ## Again, how?
