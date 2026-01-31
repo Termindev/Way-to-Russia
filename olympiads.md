@@ -189,3 +189,12 @@
   - Registration: August 25 – October 31, 2025
   - Qualifying round: November 2025
   - Final round: February – March 2026
+
+## [KSTU Olympiads (Kaliningrad State Technical University)](https://olimp.kstu.ru/)
+
+- **Format:** Fully online
+- **Subjects:** Chemistry, Mathematics, Physics, Informatics
+- **Language:** Russian
+- **Prize:** Winners and prize-winners may receive **academic recognition and certificates** and **advantages for admission** to KSTU
+- **Grades that can participate:** School students in **grades 10–12**
+- **Application dates:** Check wesbite
