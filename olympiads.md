@@ -177,3 +177,15 @@
 - **Prize:** Winners and prize-winners are granted the right to free education under the quota of the Government of the Russian Federation. Some participants may also be invited to a preparatory (foundation) year.
 - **Grades that can participate:** Foreign citizens and stateless persons, usually 11th–12th grade students or high school graduates.
 - **Application dates:** Check website
+
+## [MGIMO International School Olympiad](https://int-olymp-mgimo.com/)
+
+- **Format:** Fully Online
+- **Subjects:** Russian, English, Fundamentals of Geography, World History, International Relations
+- **Language:** English and Russian (depends on your country’s group)
+- **Prize:** Winners can receive **tuition-free education** at MGIMO University (bachelor’s or preparatory) and/or priority admission; prize-winners may get preferential entry or partial benefits.
+- **Grades that can participate:** Foreign citizens in **final years of secondary education** (high school) or recent school graduates.
+- **Application dates:**
+  - Registration: August 25 – October 31, 2025
+  - Qualifying round: November 2025
+  - Final round: February – March 2026
