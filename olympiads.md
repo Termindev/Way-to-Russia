@@ -1,14 +1,3 @@
-## [The RUDN Open Olympiad](https://eng.rudn.ru/admissions/olympiad/)
-
-- **Format:** Semi online
-- **Subjects:** Mathematics, Physics, Biology, Chemistry, Social Studies/law, Russian language
-- **Language:** ?
-- **Prize:** Prize-winners of the Olympiad are given a significant discount for studying at the University, they also get a grant (25,000 rubles a month)
-- **Grades that can participate:** ? (Says undergraduates and applicants)
-- **Application dates:**
-  - Applying: ?
-  - Participation: ?
-
 ## [International Olympiad of the financial university](https://inter-olymp.fa.ru/en)
 
 - **Format:** Fully online
@@ -33,13 +22,13 @@
 
 ## [ITMO University’s International Open Competitions in Mathematics and Computer Science](https://ec.itmo.ru/)
 
-- **Format:** Fully online (Possible to participate final stage in person)
+- **Format:** Fully online
 - **Subjects:** Mathematics and Computer Science
 - **Language:** ?
 - **Prize:** Enrolling in ITMO along with a scholarship up to 15,000 rubles
 - **Grades that can participate:** 11th and 12th grade
 - **Application dates:** - Applying: October - Participation: From October to February
-  **NOTE:** Also check out [this](https://olymp.itmo.ru/), same university, same olympiad, almost same subject and fully online.
+  **NOTE:** Also check out [this](https://olymp.itmo.ru/), same university, same olympiad, almost same subject and fully online (used to be).
 
 ## [Phystech](https://en.phystech.international/)
 
@@ -87,7 +76,7 @@
 
 ## [RUDN Junior Maths Olympiad](https://math-olymp.rudn.ru/junior/)
 
-- **Format:** Semi Online
+- **Format:** Fully-Online
 - **Subjects:** Maths
 - **Language:** Russian (Could have English next year)
 - **Prize:** Listed on the website.
@@ -116,19 +105,9 @@
 - **Application dates:**
   - Participation: Qualification: From: December 2, 2024 to January 8, 2025 and Final: March 3 – 9, 2025
 
-## [International Olympiad "Your first success"](https://abiturient.tpu.ru/en/news/international-olympiad-your-first-success)
-
-- **Format:** Fully Online
-- **Subjects:** Engineering, Natural Sciences, IT Science
-- **Language:** English and Russian
-- **Prize:** The winners are granted the right to free training according to the quota of the Government of the Russian Federation.
-- **Grades that can participate:** ?
-- **Application dates:** - Applying: From 10.11.2024 to 25.03.2025 - Participation: ?
-  **NOTE:** This is for master's, not bachelor's
-
 ## [Academic Competition for School Students «Gazprom»](https://olympiad.gazprom.ru/#/)
 
-- **Format:** (Fully Online?)
+- **Format:** Fully Online
 - **Subjects:** Mathematics, Physics, Chemistry, Computer Science, Economics, Engineering
 - **Language:** English and Russian
 - **Prize:** The winners are granted the right to free training according to the quota of the Government of the Russian Federation.
@@ -151,8 +130,8 @@
 ## [Open Olympiad for foreign citizens](http://olymp.rudn.ru/)
 
 - **Format:** Fully Online
-- **Subjects:** ?
-- **Language:** English (and Russian)
+- **Subjects:** Check websites
+- **Language:** English and Russian
 - **Prize:** Explained on the website.
 - **Grades that can participate:** 11th and 12th.
 - **Application dates:**
@@ -197,4 +176,19 @@
 - **Language:** Russian
 - **Prize:** Winners and prize-winners may receive **academic recognition and certificates** and **advantages for admission** to KSTU
 - **Grades that can participate:** School students in **grades 10–12**
-- **Application dates:** Check wesbite
+- **Application dates:** Check website
+
+## [Open Regional Interuniversity Olympiad for School Students (ОРМО)](https://abiturient.tsu.ru/ru/content/ormo)
+
+- **Format:** Semi-online
+- **Subjects:** Russian language, Literature, Physics, Geography, History, Chemistry, Mathematics, Publishing Studies, Biology, Informatics
+- **Language:** Russian
+- **Prize:**
+  - Special admission rights to Russian universities (e.g., enrollment without entrance exams or **100 exam points** for the subject)
+  - **Quota of the Government of the Russian Federation** (tuition-free places for foreign citizens)
+  - Additional portfolio points for university applications (up to 10 points)
+  - Participation in forums, grants, and academic support programs
+- **Grades that can participate:** 9th–12th grade
+- **Application dates:**
+  - Online/distance qualifying: October 1, 2025 – January 11, 2026
+  - Final stage (in person): February 13–15, 2026
