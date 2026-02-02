@@ -192,3 +192,26 @@
 - **Application dates:**
   - Online/distance qualifying: October 1, 2025 – January 11, 2026
   - Final stage (in person): February 13–15, 2026
+
+## [University School Olympiad “Bельчонок” in Informatics](https://dovuz.sfu-kras.ru/abiturientu-sfu/olimpiady/belchonok/)
+
+- **Format:** Semi-online (sometimes held fully online)
+- **Subjects:** mathematics, computer science, physics, biology, social studies, chemistry.
+- **Language:** Russian
+- **Prize:** Winners and prize-winners receive diplomas and recognition; may count toward portfolio points and can support competitive advantages for university applications in Russia.
+- **Grades that can participate:** School students from **3rd to 12th grade**
+- **Application dates:**
+  - Online qualifying / registration period: typically **Autumn – early January** (varies yearly) :contentReference[oaicite:1]{index=1}
+  - Final round: **early February**
+
+## [Olympiad “Rosatom” in Informatics](https://olymp.mephi.ru/rosatom_it)
+
+- **Format:** Semi-online (sometimes held fully online)
+- **Subjects:** Informatics / Computer Science
+- **Language:** Russian
+- **Prize:** Winners and prize-winners receive diplomas and recognition; strong results can support academic portfolios and competitive advantages for university applications in Russia.
+- **Grades that can participate:** School students in **grades 10–12th**
+- **Application dates:**
+  - Distance qualifying stage 1: November – December (approx.)
+  - Distance qualifying stage 2: December – January (approx.)
+  - Final stage: January (approx.)
