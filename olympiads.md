@@ -201,7 +201,7 @@
 - **Prize:** Winners and prize-winners receive diplomas and recognition; may count toward portfolio points and can support competitive advantages for university applications in Russia.
 - **Grades that can participate:** School students from **3rd to 12th grade**
 - **Application dates:**
-  - Online qualifying / registration period: typically **Autumn – early January** (varies yearly) :contentReference[oaicite:1]{index=1}
+  - Online qualifying / registration period: typically **Autumn – early January** (varies yearly)
   - Final round: **early February**
 
 ## [Olympiad “Rosatom” in Informatics](https://olymp.mephi.ru/rosatom_it)
