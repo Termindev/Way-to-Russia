@@ -215,3 +215,13 @@
   - Distance qualifying stage 1: November – December (approx.)
   - Distance qualifying stage 2: December – January (approx.)
   - Final stage: January (approx.)
+
+## [Olympiad for Foreign Citizens “I Want to Study at MISIS!”](https://misis.ru/applicants/school-leavers/competitions/misis/)
+
+- **Format:** Fully Online
+- **Subjects:** Mathematics, Physics, Russian Language.
+- **Language:** Russian
+- **Prize:** Winners and prize-winners receive **additional admission points** when applying to MISIS bachelor’s and basic higher education programs.
+- **Grades that can participate:** 12th grade.
+- **Application dates:**
+  - Registration: From November 1st until the day before the olympiad in the chosen subject.
