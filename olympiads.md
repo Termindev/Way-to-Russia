@@ -225,3 +225,20 @@
 - **Grades that can participate:** 12th grade.
 - **Application dates:**
   - Registration: From November 1st until the day before the olympiad in the chosen subject.
+
+## [International Youth Olympiad “Volga Universe”](https://www.ulspu.ru/inter_aktiv/iyo_volga_universe/about/)
+
+- **Format:** Online (may include in-person or country-based final stage)
+- **Subjects:** Russian Language, Social Science, Mathematics, English, History, Biology
+- **Language:** Russian
+- **Prize:**
+  - Diplomas for winners and prize-winners
+  - Recommendation for admission to Ulyanovsk State Pedagogical University
+  - Opportunity to study on **budget (tuition-free) or discounted contract basis**
+- **Grades that can participate:**
+  - Foreign citizens in **11th–12th grade**
+  - Graduates of foreign schools
+- **Application dates:**
+  - Registration: March 19 – April 20, 2025
+  - Olympiad: April 21 – April 30, 2025
+  - Results announcement: April 30, 2025
